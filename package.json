@@ -1,0 +1,23 @@
+{
+  "name": "clash-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoxaCraft/clash-tracker.git"
+  },
+  "author": " <h1>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZoxaCraft/clash-tracker/issues"
+  },
+  "homepage": "https://github.com/ZoxaCraft/clash-tracker#readme",
+  "dependencies": {
+    "clash-of-clans-api": "^0.6.4",
+    "dotenv": "^10.0.0"
+  }
+}
